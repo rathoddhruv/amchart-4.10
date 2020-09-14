@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@amcharts/amcharts4": "4.5.3",
+    "@amcharts/amcharts4": "4.10.2",
     "@angular/animations": "^10.0.2",
     "@angular/common": "^10.0.2",
     "@angular/compiler": "^10.0.2",
